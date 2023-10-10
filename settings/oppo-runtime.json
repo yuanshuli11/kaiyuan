@@ -1,0 +1,18 @@
+{
+  "package": "com.shsz.xbadd.nearme.gamecenter",
+  "name": "小兵爱登顶",
+  "icon": "/Users/yuanshuli/Downloads/logo.png",
+  "versionName": "0.0.2",
+  "versionCode": "1",
+  "minPlatformVersion": "1060",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "/Users/yuanshuli/data/code/go/src/yourwar/script/pem/private.pem",
+  "certificatePath": "/Users/yuanshuli/data/code/go/src/yourwar/script/pem/certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": true,
+  "packFirstScreenRes": false
+}

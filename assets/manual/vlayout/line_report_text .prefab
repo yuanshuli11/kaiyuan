@@ -1,0 +1,503 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "line_rich_text",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 13
+      },
+      {
+        "__id__": 14
+      }
+    ],
+    "_prefab": {
+      "__id__": 15
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 320,
+      "height": 27.72
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New ScrollView",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 11
+      }
+    ],
+    "_prefab": {
+      "__id__": 12
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 22,
+      "g": 24,
+      "b": 35,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 320,
+      "height": 320
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "view",
+    "_objFlags": 512,
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 9
+      }
+    ],
+    "_prefab": {
+      "__id__": 10
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 320,
+      "height": 250
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "content",
+    "_objFlags": 512,
+    "_parent": {
+      "__id__": 3
+    },
+    "_children": [
+      {
+        "__id__": 5
+      }
+    ],
+    "_active": true,
+    "_components": [],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 320,
+      "height": 400
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        115.30999755859375,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New RichText",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 4
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__id__": 7
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 553.69,
+      "height": 5410.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.5,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.RichText",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 5
+    },
+    "_enabled": true,
+    "_fontFamily": "Arial",
+    "_isSystemFontUsed": true,
+    "_N$string": "战斗类型: 征服\n出征时间: 2022-03-27 21:24:26\n结束时间: 2022-03-27 21:34:04\n对方玩家:  零散武装\n出发地: (64,74)\n目的地: (65,74)\n战斗过程: \n<size=15>第1回合开始</size> \n<size=15>进攻方 步兵移动300 当前位置300</size> \n<size=15>防守方 步兵移动300 当前位置4700</size> \n<size=15>防守方 摩托化骑兵移动1400 当前位置3600</size> \n<size=15>防守方 装甲车移动450 当前位置4550</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第2回合开始</size> \n<size=15>进攻方 步兵移动300 当前位置600</size> \n<size=15>防守方 摩托化骑兵移动1400 当前位置2200</size> \n<size=15>防守方 装甲车移动450 当前位置4100</size> \n<size=15>防守方 步兵移动300 当前位置4400</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第3回合开始</size> \n<size=15>进攻方 步兵移动300 当前位置900</size> \n<size=15>防守方 摩托化骑兵移动1300 当前位置900</size> \n<size=15>防守方 摩托化骑兵(数量:3) 攻击 进攻方 步兵 造成伤害:42 摧毁1 剩余:47</size> \n<size=15>防守方 装甲车移动450 当前位置3650</size> \n<size=15>防守方 步兵移动300 当前位置4100</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第4回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置900</size> \n<size=15>进攻方 步兵(数量:47) 攻击 防守方 摩托化骑兵 造成伤害:1504 摧毁3 剩余:0</size> \n<size=15>防守方 装甲车移动450 当前位置3200</size> \n<size=15>防守方 步兵移动300 当前位置3800</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第5回合开始</size> \n<size=15>进攻方 步兵移动300 当前位置1200</size> \n<size=15>防守方 装甲车移动450 当前位置2750</size> \n<size=15>防守方 步兵移动300 当前位置3500</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第6回合开始</size> \n<size=15>进攻方 步兵移动300 当前位置1500</size> \n<size=15>防守方 装甲车移动450 当前位置2300</size> \n<size=15>防守方 步兵移动300 当前位置3200</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第7回合开始</size> \n<size=15>进攻方 步兵移动300 当前位置1800</size> \n<size=15>防守方 装甲车移动450 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁4 剩余:43</size> \n<size=15>防守方 步兵移动300 当前位置2900</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第8回合开始</size> \n<size=15>进攻方 步兵移动50 当前位置1850</size> \n<size=15>进攻方 步兵(数量:43) 攻击 防守方 装甲车 造成伤害:0 摧毁0 剩余:20</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁5 剩余:38</size> \n<size=15>防守方 步兵移动300 当前位置2600</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第9回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:38) 攻击 防守方 装甲车 造成伤害:0 摧毁0 剩余:20</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁4 剩余:34</size> \n<size=15>防守方 步兵移动300 当前位置2300</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第10回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:34) 攻击 防守方 装甲车 造成伤害:0 摧毁0 剩余:20</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁5 剩余:29</size> \n<size=15>防守方 步兵移动300 当前位置2000</size> \n<size=15>防守方 步兵(数量:17) 攻击 进攻方 步兵 造成伤害:170 摧毁1 剩余:28</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第11回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:28) 攻击 防守方 装甲车 造成伤害:0 摧毁0 剩余:20</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁5 剩余:23</size> \n<size=15>防守方 步兵移动150 当前位置1850</size> \n<size=15>防守方 步兵(数量:17) 攻击 进攻方 步兵 造成伤害:170 摧毁1 剩余:22</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第12回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:22) 攻击 防守方 步兵 造成伤害:220 摧毁3 剩余:14</size> \n<size=15>防守方 步兵移动0 当前位置1850</size> \n<size=15>防守方 步兵(数量:14) 攻击 进攻方 步兵 造成伤害:140 摧毁2 剩余:20</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁4 剩余:16</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第13回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:16) 攻击 防守方 步兵 造成伤害:160 摧毁1 剩余:13</size> \n<size=15>防守方 步兵移动0 当前位置1850</size> \n<size=15>防守方 步兵(数量:13) 攻击 进攻方 步兵 造成伤害:130 摧毁1 剩余:15</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:440 摧毁5 剩余:10</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第14回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:10) 攻击 防守方 步兵 造成伤害:100 摧毁1 剩余:12</size> \n<size=15>防守方 步兵移动0 当前位置1850</size> \n<size=15>防守方 步兵(数量:12) 攻击 进攻方 步兵 造成伤害:120 摧毁1 剩余:9</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:500 摧毁5 剩余:4</size> \n<size=15>本回合结束</size> \n<size=15>等待下回合开始...</size> \n<size=15>第15回合开始</size> \n<size=15>进攻方 步兵移动0 当前位置1850</size> \n<size=15>进攻方 步兵(数量:4) 攻击 防守方 步兵 造成伤害:40 摧毁1 剩余:11</size> \n<size=15>防守方 步兵移动0 当前位置1850</size> \n<size=15>防守方 步兵(数量:11) 攻击 进攻方 步兵 造成伤害:187 摧毁2 剩余:2</size> \n<size=15>防守方 装甲车移动0 当前位置1850</size> \n<size=15>防守方 装甲车(数量:20) 攻击 进攻方 步兵 造成伤害:1080 摧毁2 剩余:0</size> \n<size=15>本回合结束</size> \n<size=15>防守方胜利!</size>\n进攻方损耗: \n<size=15>        步兵: 48 -> 0 </size>\n失败方损耗: \n<size=15>        步兵: 17 -> 11 </size> \n<size=15>        摩托化骑兵: 3 -> 0 </size> \n<size=15>        装甲车: 20 -> 20 </size>\n\n\n\n",
+    "_N$horizontalAlign": 0,
+    "_N$fontSize": 40,
+    "_N$font": null,
+    "_N$cacheMode": 2,
+    "_N$maxWidth": 0,
+    "_N$lineHeight": 40,
+    "_N$imageAtlas": null,
+    "_N$handleTouchEvent": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "1biwEYWJlD/J1cCeaMpDJs",
+    "sync": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "07r8HeF91Cfpqe778MxzTW",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Mask",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 3
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": null,
+    "_type": 0,
+    "_segments": 64,
+    "_N$alphaThreshold": 0,
+    "_N$inverted": false,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "46widYUUxAqoOtErJdFKDU",
+    "sync": false
+  },
+  {
+    "__type__": "cc.ScrollView",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "horizontal": false,
+    "vertical": true,
+    "inertia": true,
+    "brake": 0.75,
+    "elastic": true,
+    "bounceDuration": 0.23,
+    "scrollEvents": [],
+    "cancelInnerEvents": true,
+    "_N$content": {
+      "__id__": 4
+    },
+    "content": {
+      "__id__": 4
+    },
+    "_N$horizontalScrollBar": null,
+    "_N$verticalScrollBar": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "61nwoPD3xEyY/u6Cn3Pj/u",
+    "sync": false
+  },
+  {
+    "__type__": "1b90bIuKedLTbzaPeze6HXd",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "valueLable": {
+      "__id__": 14
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.RichText",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_fontFamily": "Arial",
+    "_isSystemFontUsed": true,
+    "_N$string": "",
+    "_N$horizontalAlign": 0,
+    "_N$fontSize": 18,
+    "_N$font": null,
+    "_N$cacheMode": 2,
+    "_N$maxWidth": 320,
+    "_N$lineHeight": 22,
+    "_N$imageAtlas": null,
+    "_N$handleTouchEvent": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "",
+    "sync": false
+  }
+]
